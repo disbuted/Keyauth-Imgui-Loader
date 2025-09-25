@@ -1,0 +1,231 @@
+﻿  main.cpp
+C:\Program Files (x86)\Microsoft DirectX SDK (June 2010)\Include\dxgitype.h(12,9): warning C4005: 'DXGI_STATUS_OCCLUDED': macro redefinition
+  (compiling source file 'main/main.cpp')
+      C:\Program Files (x86)\Windows Kits\10\Include\10.0.26100.0\shared\winerror.h(59192,9):
+      see previous definition of 'DXGI_STATUS_OCCLUDED'
+  
+C:\Program Files (x86)\Microsoft DirectX SDK (June 2010)\Include\dxgitype.h(13,9): warning C4005: 'DXGI_STATUS_CLIPPED': macro redefinition
+  (compiling source file 'main/main.cpp')
+      C:\Program Files (x86)\Windows Kits\10\Include\10.0.26100.0\shared\winerror.h(59201,9):
+      see previous definition of 'DXGI_STATUS_CLIPPED'
+  
+C:\Program Files (x86)\Microsoft DirectX SDK (June 2010)\Include\dxgitype.h(14,9): warning C4005: 'DXGI_STATUS_NO_REDIRECTION': macro redefinition
+  (compiling source file 'main/main.cpp')
+      C:\Program Files (x86)\Windows Kits\10\Include\10.0.26100.0\shared\winerror.h(59210,9):
+      see previous definition of 'DXGI_STATUS_NO_REDIRECTION'
+  
+C:\Program Files (x86)\Microsoft DirectX SDK (June 2010)\Include\dxgitype.h(15,9): warning C4005: 'DXGI_STATUS_NO_DESKTOP_ACCESS': macro redefinition
+  (compiling source file 'main/main.cpp')
+      C:\Program Files (x86)\Windows Kits\10\Include\10.0.26100.0\shared\winerror.h(59219,9):
+      see previous definition of 'DXGI_STATUS_NO_DESKTOP_ACCESS'
+  
+C:\Program Files (x86)\Microsoft DirectX SDK (June 2010)\Include\dxgitype.h(16,9): warning C4005: 'DXGI_STATUS_GRAPHICS_VIDPN_SOURCE_IN_USE': macro redefinition
+  (compiling source file 'main/main.cpp')
+      C:\Program Files (x86)\Windows Kits\10\Include\10.0.26100.0\shared\winerror.h(59228,9):
+      see previous definition of 'DXGI_STATUS_GRAPHICS_VIDPN_SOURCE_IN_USE'
+  
+C:\Program Files (x86)\Microsoft DirectX SDK (June 2010)\Include\dxgitype.h(17,9): warning C4005: 'DXGI_STATUS_MODE_CHANGED': macro redefinition
+  (compiling source file 'main/main.cpp')
+      C:\Program Files (x86)\Windows Kits\10\Include\10.0.26100.0\shared\winerror.h(59237,9):
+      see previous definition of 'DXGI_STATUS_MODE_CHANGED'
+  
+C:\Program Files (x86)\Microsoft DirectX SDK (June 2010)\Include\dxgitype.h(18,9): warning C4005: 'DXGI_STATUS_MODE_CHANGE_IN_PROGRESS': macro redefinition
+  (compiling source file 'main/main.cpp')
+      C:\Program Files (x86)\Windows Kits\10\Include\10.0.26100.0\shared\winerror.h(59246,9):
+      see previous definition of 'DXGI_STATUS_MODE_CHANGE_IN_PROGRESS'
+  
+C:\Program Files (x86)\Microsoft DirectX SDK (June 2010)\Include\dxgitype.h(21,9): warning C4005: 'DXGI_ERROR_INVALID_CALL': macro redefinition
+  (compiling source file 'main/main.cpp')
+      C:\Program Files (x86)\Windows Kits\10\Include\10.0.26100.0\shared\winerror.h(59261,9):
+      see previous definition of 'DXGI_ERROR_INVALID_CALL'
+  
+C:\Program Files (x86)\Microsoft DirectX SDK (June 2010)\Include\dxgitype.h(22,9): warning C4005: 'DXGI_ERROR_NOT_FOUND': macro redefinition
+  (compiling source file 'main/main.cpp')
+      C:\Program Files (x86)\Windows Kits\10\Include\10.0.26100.0\shared\winerror.h(59270,9):
+      see previous definition of 'DXGI_ERROR_NOT_FOUND'
+  
+C:\Program Files (x86)\Microsoft DirectX SDK (June 2010)\Include\dxgitype.h(23,9): warning C4005: 'DXGI_ERROR_MORE_DATA': macro redefinition
+  (compiling source file 'main/main.cpp')
+      C:\Program Files (x86)\Windows Kits\10\Include\10.0.26100.0\shared\winerror.h(59279,9):
+      see previous definition of 'DXGI_ERROR_MORE_DATA'
+  
+C:\Program Files (x86)\Microsoft DirectX SDK (June 2010)\Include\dxgitype.h(24,9): warning C4005: 'DXGI_ERROR_UNSUPPORTED': macro redefinition
+  (compiling source file 'main/main.cpp')
+      C:\Program Files (x86)\Windows Kits\10\Include\10.0.26100.0\shared\winerror.h(59288,9):
+      see previous definition of 'DXGI_ERROR_UNSUPPORTED'
+  
+C:\Program Files (x86)\Microsoft DirectX SDK (June 2010)\Include\dxgitype.h(25,9): warning C4005: 'DXGI_ERROR_DEVICE_REMOVED': macro redefinition
+  (compiling source file 'main/main.cpp')
+      C:\Program Files (x86)\Windows Kits\10\Include\10.0.26100.0\shared\winerror.h(59297,9):
+      see previous definition of 'DXGI_ERROR_DEVICE_REMOVED'
+  
+C:\Program Files (x86)\Microsoft DirectX SDK (June 2010)\Include\dxgitype.h(26,9): warning C4005: 'DXGI_ERROR_DEVICE_HUNG': macro redefinition
+  (compiling source file 'main/main.cpp')
+      C:\Program Files (x86)\Windows Kits\10\Include\10.0.26100.0\shared\winerror.h(59306,9):
+      see previous definition of 'DXGI_ERROR_DEVICE_HUNG'
+  
+C:\Program Files (x86)\Microsoft DirectX SDK (June 2010)\Include\dxgitype.h(27,9): warning C4005: 'DXGI_ERROR_DEVICE_RESET': macro redefinition
+  (compiling source file 'main/main.cpp')
+      C:\Program Files (x86)\Windows Kits\10\Include\10.0.26100.0\shared\winerror.h(59316,9):
+      see previous definition of 'DXGI_ERROR_DEVICE_RESET'
+  
+C:\Program Files (x86)\Microsoft DirectX SDK (June 2010)\Include\dxgitype.h(28,9): warning C4005: 'DXGI_ERROR_WAS_STILL_DRAWING': macro redefinition
+  (compiling source file 'main/main.cpp')
+      C:\Program Files (x86)\Windows Kits\10\Include\10.0.26100.0\shared\winerror.h(59325,9):
+      see previous definition of 'DXGI_ERROR_WAS_STILL_DRAWING'
+  
+C:\Program Files (x86)\Microsoft DirectX SDK (June 2010)\Include\dxgitype.h(29,9): warning C4005: 'DXGI_ERROR_FRAME_STATISTICS_DISJOINT': macro redefinition
+  (compiling source file 'main/main.cpp')
+      C:\Program Files (x86)\Windows Kits\10\Include\10.0.26100.0\shared\winerror.h(59335,9):
+      see previous definition of 'DXGI_ERROR_FRAME_STATISTICS_DISJOINT'
+  
+C:\Program Files (x86)\Microsoft DirectX SDK (June 2010)\Include\dxgitype.h(30,9): warning C4005: 'DXGI_ERROR_GRAPHICS_VIDPN_SOURCE_IN_USE': macro redefinition
+  (compiling source file 'main/main.cpp')
+      C:\Program Files (x86)\Windows Kits\10\Include\10.0.26100.0\shared\winerror.h(59344,9):
+      see previous definition of 'DXGI_ERROR_GRAPHICS_VIDPN_SOURCE_IN_USE'
+  
+C:\Program Files (x86)\Microsoft DirectX SDK (June 2010)\Include\dxgitype.h(31,9): warning C4005: 'DXGI_ERROR_DRIVER_INTERNAL_ERROR': macro redefinition
+  (compiling source file 'main/main.cpp')
+      C:\Program Files (x86)\Windows Kits\10\Include\10.0.26100.0\shared\winerror.h(59354,9):
+      see previous definition of 'DXGI_ERROR_DRIVER_INTERNAL_ERROR'
+  
+C:\Program Files (x86)\Microsoft DirectX SDK (June 2010)\Include\dxgitype.h(32,9): warning C4005: 'DXGI_ERROR_NONEXCLUSIVE': macro redefinition
+  (compiling source file 'main/main.cpp')
+      C:\Program Files (x86)\Windows Kits\10\Include\10.0.26100.0\shared\winerror.h(59363,9):
+      see previous definition of 'DXGI_ERROR_NONEXCLUSIVE'
+  
+C:\Program Files (x86)\Microsoft DirectX SDK (June 2010)\Include\dxgitype.h(33,9): warning C4005: 'DXGI_ERROR_NOT_CURRENTLY_AVAILABLE': macro redefinition
+  (compiling source file 'main/main.cpp')
+      C:\Program Files (x86)\Windows Kits\10\Include\10.0.26100.0\shared\winerror.h(59372,9):
+      see previous definition of 'DXGI_ERROR_NOT_CURRENTLY_AVAILABLE'
+  
+C:\Program Files (x86)\Microsoft DirectX SDK (June 2010)\Include\dxgitype.h(34,9): warning C4005: 'DXGI_ERROR_REMOTE_CLIENT_DISCONNECTED': macro redefinition
+  (compiling source file 'main/main.cpp')
+      C:\Program Files (x86)\Windows Kits\10\Include\10.0.26100.0\shared\winerror.h(59382,9):
+      see previous definition of 'DXGI_ERROR_REMOTE_CLIENT_DISCONNECTED'
+  
+C:\Program Files (x86)\Microsoft DirectX SDK (June 2010)\Include\dxgitype.h(35,9): warning C4005: 'DXGI_ERROR_REMOTE_OUTOFMEMORY': macro redefinition
+  (compiling source file 'main/main.cpp')
+      C:\Program Files (x86)\Windows Kits\10\Include\10.0.26100.0\shared\winerror.h(59391,9):
+      see previous definition of 'DXGI_ERROR_REMOTE_OUTOFMEMORY'
+  
+C:\Program Files (x86)\Microsoft DirectX SDK (June 2010)\Include\d3d11.h(917,9): warning C4005: 'D3D11_ERROR_TOO_MANY_UNIQUE_STATE_OBJECTS': macro redefinition
+  (compiling source file 'main/main.cpp')
+      C:\Program Files (x86)\Windows Kits\10\Include\10.0.26100.0\shared\winerror.h(59706,9):
+      see previous definition of 'D3D11_ERROR_TOO_MANY_UNIQUE_STATE_OBJECTS'
+  
+C:\Program Files (x86)\Microsoft DirectX SDK (June 2010)\Include\d3d11.h(918,9): warning C4005: 'D3D11_ERROR_FILE_NOT_FOUND': macro redefinition
+  (compiling source file 'main/main.cpp')
+      C:\Program Files (x86)\Windows Kits\10\Include\10.0.26100.0\shared\winerror.h(59715,9):
+      see previous definition of 'D3D11_ERROR_FILE_NOT_FOUND'
+  
+C:\Program Files (x86)\Microsoft DirectX SDK (June 2010)\Include\d3d11.h(919,9): warning C4005: 'D3D11_ERROR_TOO_MANY_UNIQUE_VIEW_OBJECTS': macro redefinition
+  (compiling source file 'main/main.cpp')
+      C:\Program Files (x86)\Windows Kits\10\Include\10.0.26100.0\shared\winerror.h(59725,9):
+      see previous definition of 'D3D11_ERROR_TOO_MANY_UNIQUE_VIEW_OBJECTS'
+  
+C:\Program Files (x86)\Microsoft DirectX SDK (June 2010)\Include\d3d11.h(920,9): warning C4005: 'D3D11_ERROR_DEFERRED_CONTEXT_MAP_WITHOUT_INITIAL_DISCARD': macro redefinition
+  (compiling source file 'main/main.cpp')
+      C:\Program Files (x86)\Windows Kits\10\Include\10.0.26100.0\shared\winerror.h(59734,9):
+      see previous definition of 'D3D11_ERROR_DEFERRED_CONTEXT_MAP_WITHOUT_INITIAL_DISCARD'
+  
+C:\Program Files (x86)\Microsoft DirectX SDK (June 2010)\Include\d3d10.h(608,9): warning C4005: 'D3D10_ERROR_TOO_MANY_UNIQUE_STATE_OBJECTS': macro redefinition
+  (compiling source file 'main/main.cpp')
+      C:\Program Files (x86)\Windows Kits\10\Include\10.0.26100.0\shared\winerror.h(59682,9):
+      see previous definition of 'D3D10_ERROR_TOO_MANY_UNIQUE_STATE_OBJECTS'
+  
+C:\Program Files (x86)\Microsoft DirectX SDK (June 2010)\Include\d3d10.h(609,9): warning C4005: 'D3D10_ERROR_FILE_NOT_FOUND': macro redefinition
+  (compiling source file 'main/main.cpp')
+      C:\Program Files (x86)\Windows Kits\10\Include\10.0.26100.0\shared\winerror.h(59691,9):
+      see previous definition of 'D3D10_ERROR_FILE_NOT_FOUND'
+  
+C:\Users\ego\Desktop\uwuhook loader\uwuhook\main\includes.hpp(99,9): warning C4005: '_CRT_SECURE_NO_WARNINGS': macro redefinition
+  (compiling source file 'main/main.cpp')
+      C:\Users\ego\Desktop\uwuhook loader\uwuhook\main\includes.hpp(99,9):
+      '_CRT_SECURE_NO_WARNINGS' previously declared on the command line
+  
+C:\Users\ego\Desktop\uwuhook loader\uwuhook\protection\obfusheader\obfusheader.h(252,9): warning C4244: 'return': conversion from 'double' to 'volatile int', possible loss of data
+  (compiling source file 'main/main.cpp')
+  
+C:\Users\ego\Desktop\uwuhook loader\uwuhook\protection\obfusheader\obfusheader.h(252,9): warning C4102: 'loc_end': unreferenced label
+  (compiling source file 'main/main.cpp')
+  
+C:\Users\ego\Desktop\uwuhook loader\uwuhook\protection\obfusheader\obfusheader.h(252,9): warning C4102: 'loc_fake': unreferenced label
+  (compiling source file 'main/main.cpp')
+  
+C:\Users\ego\Desktop\uwuhook loader\uwuhook\main\main.hpp(649,20): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+  (compiling source file 'main/main.cpp')
+  
+LINK : warning LNK4098: defaultlib 'LIBCMT' conflicts with use of other libs; use /NODEFAULTLIB:library
+  LINK : /LTCG specified but no code generation required; remove /LTCG from the link command line to improve linker performance
+library_x64.lib(core.obj) : warning LNK4099: PDB 'libsodium.pdb' was not found with 'library_x64.lib(core.obj)' or at 'C:\Users\ego\Desktop\uwuhook loader\uwuhook\build\Release\libsodium.pdb'; linking object as if no debug info
+library_x64.lib(open.obj) : warning LNK4099: PDB 'libsodium.pdb' was not found with 'library_x64.lib(open.obj)' or at 'C:\Users\ego\Desktop\uwuhook loader\uwuhook\build\Release\libsodium.pdb'; linking object as if no debug info
+library_x64.lib(codecs.obj) : warning LNK4099: PDB 'libsodium.pdb' was not found with 'library_x64.lib(codecs.obj)' or at 'C:\Users\ego\Desktop\uwuhook loader\uwuhook\build\Release\libsodium.pdb'; linking object as if no debug info
+library_x64.lib(randombytes.obj) : warning LNK4099: PDB 'libsodium.pdb' was not found with 'library_x64.lib(randombytes.obj)' or at 'C:\Users\ego\Desktop\uwuhook loader\uwuhook\build\Release\libsodium.pdb'; linking object as if no debug info
+library_x64.lib(runtime.obj) : warning LNK4099: PDB 'libsodium.pdb' was not found with 'library_x64.lib(runtime.obj)' or at 'C:\Users\ego\Desktop\uwuhook loader\uwuhook\build\Release\libsodium.pdb'; linking object as if no debug info
+library_x64.lib(utils.obj) : warning LNK4099: PDB 'libsodium.pdb' was not found with 'library_x64.lib(utils.obj)' or at 'C:\Users\ego\Desktop\uwuhook loader\uwuhook\build\Release\libsodium.pdb'; linking object as if no debug info
+library_x64.lib(generichash_blake2b.obj) : warning LNK4099: PDB 'libsodium.pdb' was not found with 'library_x64.lib(generichash_blake2b.obj)' or at 'C:\Users\ego\Desktop\uwuhook loader\uwuhook\build\Release\libsodium.pdb'; linking object as if no debug info
+library_x64.lib(onetimeauth_poly1305.obj) : warning LNK4099: PDB 'libsodium.pdb' was not found with 'library_x64.lib(onetimeauth_poly1305.obj)' or at 'C:\Users\ego\Desktop\uwuhook loader\uwuhook\build\Release\libsodium.pdb'; linking object as if no debug info
+library_x64.lib(argon2-core.obj) : warning LNK4099: PDB 'libsodium.pdb' was not found with 'library_x64.lib(argon2-core.obj)' or at 'C:\Users\ego\Desktop\uwuhook loader\uwuhook\build\Release\libsodium.pdb'; linking object as if no debug info
+library_x64.lib(scalarmult_curve25519.obj) : warning LNK4099: PDB 'libsodium.pdb' was not found with 'library_x64.lib(scalarmult_curve25519.obj)' or at 'C:\Users\ego\Desktop\uwuhook loader\uwuhook\build\Release\libsodium.pdb'; linking object as if no debug info
+library_x64.lib(stream_chacha20.obj) : warning LNK4099: PDB 'libsodium.pdb' was not found with 'library_x64.lib(stream_chacha20.obj)' or at 'C:\Users\ego\Desktop\uwuhook loader\uwuhook\build\Release\libsodium.pdb'; linking object as if no debug info
+library_x64.lib(stream_salsa20.obj) : warning LNK4099: PDB 'libsodium.pdb' was not found with 'library_x64.lib(stream_salsa20.obj)' or at 'C:\Users\ego\Desktop\uwuhook loader\uwuhook\build\Release\libsodium.pdb'; linking object as if no debug info
+library_x64.lib(aead_aegis128l.obj) : warning LNK4099: PDB 'libsodium.pdb' was not found with 'library_x64.lib(aead_aegis128l.obj)' or at 'C:\Users\ego\Desktop\uwuhook loader\uwuhook\build\Release\libsodium.pdb'; linking object as if no debug info
+library_x64.lib(aead_aegis256.obj) : warning LNK4099: PDB 'libsodium.pdb' was not found with 'library_x64.lib(aead_aegis256.obj)' or at 'C:\Users\ego\Desktop\uwuhook loader\uwuhook\build\Release\libsodium.pdb'; linking object as if no debug info
+library_x64.lib(hash_sha512_cp.obj) : warning LNK4099: PDB 'libsodium.pdb' was not found with 'library_x64.lib(hash_sha512_cp.obj)' or at 'C:\Users\ego\Desktop\uwuhook loader\uwuhook\build\Release\libsodium.pdb'; linking object as if no debug info
+library_x64.lib(verify.obj) : warning LNK4099: PDB 'libsodium.pdb' was not found with 'library_x64.lib(verify.obj)' or at 'C:\Users\ego\Desktop\uwuhook loader\uwuhook\build\Release\libsodium.pdb'; linking object as if no debug info
+library_x64.lib(sign.obj) : warning LNK4099: PDB 'libsodium.pdb' was not found with 'library_x64.lib(sign.obj)' or at 'C:\Users\ego\Desktop\uwuhook loader\uwuhook\build\Release\libsodium.pdb'; linking object as if no debug info
+library_x64.lib(ed25519_ref10.obj) : warning LNK4099: PDB 'libsodium.pdb' was not found with 'library_x64.lib(ed25519_ref10.obj)' or at 'C:\Users\ego\Desktop\uwuhook loader\uwuhook\build\Release\libsodium.pdb'; linking object as if no debug info
+library_x64.lib(randombytes_sysrandom.obj) : warning LNK4099: PDB 'libsodium.pdb' was not found with 'library_x64.lib(randombytes_sysrandom.obj)' or at 'C:\Users\ego\Desktop\uwuhook loader\uwuhook\build\Release\libsodium.pdb'; linking object as if no debug info
+library_x64.lib(blake2b-ref.obj) : warning LNK4099: PDB 'libsodium.pdb' was not found with 'library_x64.lib(blake2b-ref.obj)' or at 'C:\Users\ego\Desktop\uwuhook loader\uwuhook\build\Release\libsodium.pdb'; linking object as if no debug info
+library_x64.lib(poly1305_donna.obj) : warning LNK4099: PDB 'libsodium.pdb' was not found with 'library_x64.lib(poly1305_donna.obj)' or at 'C:\Users\ego\Desktop\uwuhook loader\uwuhook\build\Release\libsodium.pdb'; linking object as if no debug info
+library_x64.lib(argon2-fill-block-ref.obj) : warning LNK4099: PDB 'libsodium.pdb' was not found with 'library_x64.lib(argon2-fill-block-ref.obj)' or at 'C:\Users\ego\Desktop\uwuhook loader\uwuhook\build\Release\libsodium.pdb'; linking object as if no debug info
+library_x64.lib(argon2-fill-block-avx512f.obj) : warning LNK4099: PDB 'libsodium.pdb' was not found with 'library_x64.lib(argon2-fill-block-avx512f.obj)' or at 'C:\Users\ego\Desktop\uwuhook loader\uwuhook\build\Release\libsodium.pdb'; linking object as if no debug info
+library_x64.lib(argon2-fill-block-avx2.obj) : warning LNK4099: PDB 'libsodium.pdb' was not found with 'library_x64.lib(argon2-fill-block-avx2.obj)' or at 'C:\Users\ego\Desktop\uwuhook loader\uwuhook\build\Release\libsodium.pdb'; linking object as if no debug info
+library_x64.lib(argon2-fill-block-ssse3.obj) : warning LNK4099: PDB 'libsodium.pdb' was not found with 'library_x64.lib(argon2-fill-block-ssse3.obj)' or at 'C:\Users\ego\Desktop\uwuhook loader\uwuhook\build\Release\libsodium.pdb'; linking object as if no debug info
+library_x64.lib(blake2b-long.obj) : warning LNK4099: PDB 'libsodium.pdb' was not found with 'library_x64.lib(blake2b-long.obj)' or at 'C:\Users\ego\Desktop\uwuhook loader\uwuhook\build\Release\libsodium.pdb'; linking object as if no debug info
+library_x64.lib(x25519_ref10.obj) : warning LNK4099: PDB 'libsodium.pdb' was not found with 'library_x64.lib(x25519_ref10.obj)' or at 'C:\Users\ego\Desktop\uwuhook loader\uwuhook\build\Release\libsodium.pdb'; linking object as if no debug info
+library_x64.lib(chacha20_ref.obj) : warning LNK4099: PDB 'libsodium.pdb' was not found with 'library_x64.lib(chacha20_ref.obj)' or at 'C:\Users\ego\Desktop\uwuhook loader\uwuhook\build\Release\libsodium.pdb'; linking object as if no debug info
+library_x64.lib(chacha20_dolbeau-avx2.obj) : warning LNK4099: PDB 'libsodium.pdb' was not found with 'library_x64.lib(chacha20_dolbeau-avx2.obj)' or at 'C:\Users\ego\Desktop\uwuhook loader\uwuhook\build\Release\libsodium.pdb'; linking object as if no debug info
+library_x64.lib(chacha20_dolbeau-ssse3.obj) : warning LNK4099: PDB 'libsodium.pdb' was not found with 'library_x64.lib(chacha20_dolbeau-ssse3.obj)' or at 'C:\Users\ego\Desktop\uwuhook loader\uwuhook\build\Release\libsodium.pdb'; linking object as if no debug info
+library_x64.lib(salsa20_ref.obj) : warning LNK4099: PDB 'libsodium.pdb' was not found with 'library_x64.lib(salsa20_ref.obj)' or at 'C:\Users\ego\Desktop\uwuhook loader\uwuhook\build\Release\libsodium.pdb'; linking object as if no debug info
+library_x64.lib(salsa20_xmm6int-sse2.obj) : warning LNK4099: PDB 'libsodium.pdb' was not found with 'library_x64.lib(salsa20_xmm6int-sse2.obj)' or at 'C:\Users\ego\Desktop\uwuhook loader\uwuhook\build\Release\libsodium.pdb'; linking object as if no debug info
+library_x64.lib(salsa20_xmm6int-avx2.obj) : warning LNK4099: PDB 'libsodium.pdb' was not found with 'library_x64.lib(salsa20_xmm6int-avx2.obj)' or at 'C:\Users\ego\Desktop\uwuhook loader\uwuhook\build\Release\libsodium.pdb'; linking object as if no debug info
+library_x64.lib(aegis128l_soft.obj) : warning LNK4099: PDB 'libsodium.pdb' was not found with 'library_x64.lib(aegis128l_soft.obj)' or at 'C:\Users\ego\Desktop\uwuhook loader\uwuhook\build\Release\libsodium.pdb'; linking object as if no debug info
+library_x64.lib(aegis128l_aesni.obj) : warning LNK4099: PDB 'libsodium.pdb' was not found with 'library_x64.lib(aegis128l_aesni.obj)' or at 'C:\Users\ego\Desktop\uwuhook loader\uwuhook\build\Release\libsodium.pdb'; linking object as if no debug info
+library_x64.lib(aegis256_soft.obj) : warning LNK4099: PDB 'libsodium.pdb' was not found with 'library_x64.lib(aegis256_soft.obj)' or at 'C:\Users\ego\Desktop\uwuhook loader\uwuhook\build\Release\libsodium.pdb'; linking object as if no debug info
+library_x64.lib(aegis256_aesni.obj) : warning LNK4099: PDB 'libsodium.pdb' was not found with 'library_x64.lib(aegis256_aesni.obj)' or at 'C:\Users\ego\Desktop\uwuhook loader\uwuhook\build\Release\libsodium.pdb'; linking object as if no debug info
+library_x64.lib(blake2b-compress-ref.obj) : warning LNK4099: PDB 'libsodium.pdb' was not found with 'library_x64.lib(blake2b-compress-ref.obj)' or at 'C:\Users\ego\Desktop\uwuhook loader\uwuhook\build\Release\libsodium.pdb'; linking object as if no debug info
+library_x64.lib(blake2b-compress-ssse3.obj) : warning LNK4099: PDB 'libsodium.pdb' was not found with 'library_x64.lib(blake2b-compress-ssse3.obj)' or at 'C:\Users\ego\Desktop\uwuhook loader\uwuhook\build\Release\libsodium.pdb'; linking object as if no debug info
+library_x64.lib(blake2b-compress-sse41.obj) : warning LNK4099: PDB 'libsodium.pdb' was not found with 'library_x64.lib(blake2b-compress-sse41.obj)' or at 'C:\Users\ego\Desktop\uwuhook loader\uwuhook\build\Release\libsodium.pdb'; linking object as if no debug info
+library_x64.lib(blake2b-compress-avx2.obj) : warning LNK4099: PDB 'libsodium.pdb' was not found with 'library_x64.lib(blake2b-compress-avx2.obj)' or at 'C:\Users\ego\Desktop\uwuhook loader\uwuhook\build\Release\libsodium.pdb'; linking object as if no debug info
+library_x64.lib(core_salsa_ref.obj) : warning LNK4099: PDB 'libsodium.pdb' was not found with 'library_x64.lib(core_salsa_ref.obj)' or at 'C:\Users\ego\Desktop\uwuhook loader\uwuhook\build\Release\libsodium.pdb'; linking object as if no debug info
+library_x64.lib(softaes.obj) : warning LNK4099: PDB 'libsodium.pdb' was not found with 'library_x64.lib(softaes.obj)' or at 'C:\Users\ego\Desktop\uwuhook loader\uwuhook\build\Release\libsodium.pdb'; linking object as if no debug info
+freetype.lib(ftbase.obj) : warning LNK4099: PDB 'freetype.pdb' was not found with 'freetype.lib(ftbase.obj)' or at 'C:\Users\ego\Desktop\uwuhook loader\uwuhook\build\Release\freetype.pdb'; linking object as if no debug info
+freetype.lib(ftinit.obj) : warning LNK4099: PDB 'freetype.pdb' was not found with 'freetype.lib(ftinit.obj)' or at 'C:\Users\ego\Desktop\uwuhook loader\uwuhook\build\Release\freetype.pdb'; linking object as if no debug info
+freetype.lib(ftsynth.obj) : warning LNK4099: PDB 'freetype.pdb' was not found with 'freetype.lib(ftsynth.obj)' or at 'C:\Users\ego\Desktop\uwuhook loader\uwuhook\build\Release\freetype.pdb'; linking object as if no debug info
+freetype.lib(ftsystem.obj) : warning LNK4099: PDB 'freetype.pdb' was not found with 'freetype.lib(ftsystem.obj)' or at 'C:\Users\ego\Desktop\uwuhook loader\uwuhook\build\Release\freetype.pdb'; linking object as if no debug info
+freetype.lib(autofit.obj) : warning LNK4099: PDB 'freetype.pdb' was not found with 'freetype.lib(autofit.obj)' or at 'C:\Users\ego\Desktop\uwuhook loader\uwuhook\build\Release\freetype.pdb'; linking object as if no debug info
+freetype.lib(truetype.obj) : warning LNK4099: PDB 'freetype.pdb' was not found with 'freetype.lib(truetype.obj)' or at 'C:\Users\ego\Desktop\uwuhook loader\uwuhook\build\Release\freetype.pdb'; linking object as if no debug info
+freetype.lib(type1.obj) : warning LNK4099: PDB 'freetype.pdb' was not found with 'freetype.lib(type1.obj)' or at 'C:\Users\ego\Desktop\uwuhook loader\uwuhook\build\Release\freetype.pdb'; linking object as if no debug info
+freetype.lib(cff.obj) : warning LNK4099: PDB 'freetype.pdb' was not found with 'freetype.lib(cff.obj)' or at 'C:\Users\ego\Desktop\uwuhook loader\uwuhook\build\Release\freetype.pdb'; linking object as if no debug info
+freetype.lib(type1cid.obj) : warning LNK4099: PDB 'freetype.pdb' was not found with 'freetype.lib(type1cid.obj)' or at 'C:\Users\ego\Desktop\uwuhook loader\uwuhook\build\Release\freetype.pdb'; linking object as if no debug info
+freetype.lib(pfr.obj) : warning LNK4099: PDB 'freetype.pdb' was not found with 'freetype.lib(pfr.obj)' or at 'C:\Users\ego\Desktop\uwuhook loader\uwuhook\build\Release\freetype.pdb'; linking object as if no debug info
+freetype.lib(type42.obj) : warning LNK4099: PDB 'freetype.pdb' was not found with 'freetype.lib(type42.obj)' or at 'C:\Users\ego\Desktop\uwuhook loader\uwuhook\build\Release\freetype.pdb'; linking object as if no debug info
+freetype.lib(winfnt.obj) : warning LNK4099: PDB 'freetype.pdb' was not found with 'freetype.lib(winfnt.obj)' or at 'C:\Users\ego\Desktop\uwuhook loader\uwuhook\build\Release\freetype.pdb'; linking object as if no debug info
+freetype.lib(pcf.obj) : warning LNK4099: PDB 'freetype.pdb' was not found with 'freetype.lib(pcf.obj)' or at 'C:\Users\ego\Desktop\uwuhook loader\uwuhook\build\Release\freetype.pdb'; linking object as if no debug info
+freetype.lib(bdf.obj) : warning LNK4099: PDB 'freetype.pdb' was not found with 'freetype.lib(bdf.obj)' or at 'C:\Users\ego\Desktop\uwuhook loader\uwuhook\build\Release\freetype.pdb'; linking object as if no debug info
+freetype.lib(psaux.obj) : warning LNK4099: PDB 'freetype.pdb' was not found with 'freetype.lib(psaux.obj)' or at 'C:\Users\ego\Desktop\uwuhook loader\uwuhook\build\Release\freetype.pdb'; linking object as if no debug info
+freetype.lib(psmodule.obj) : warning LNK4099: PDB 'freetype.pdb' was not found with 'freetype.lib(psmodule.obj)' or at 'C:\Users\ego\Desktop\uwuhook loader\uwuhook\build\Release\freetype.pdb'; linking object as if no debug info
+freetype.lib(pshinter.obj) : warning LNK4099: PDB 'freetype.pdb' was not found with 'freetype.lib(pshinter.obj)' or at 'C:\Users\ego\Desktop\uwuhook loader\uwuhook\build\Release\freetype.pdb'; linking object as if no debug info
+freetype.lib(sfnt.obj) : warning LNK4099: PDB 'freetype.pdb' was not found with 'freetype.lib(sfnt.obj)' or at 'C:\Users\ego\Desktop\uwuhook loader\uwuhook\build\Release\freetype.pdb'; linking object as if no debug info
+freetype.lib(smooth.obj) : warning LNK4099: PDB 'freetype.pdb' was not found with 'freetype.lib(smooth.obj)' or at 'C:\Users\ego\Desktop\uwuhook loader\uwuhook\build\Release\freetype.pdb'; linking object as if no debug info
+freetype.lib(raster.obj) : warning LNK4099: PDB 'freetype.pdb' was not found with 'freetype.lib(raster.obj)' or at 'C:\Users\ego\Desktop\uwuhook loader\uwuhook\build\Release\freetype.pdb'; linking object as if no debug info
+freetype.lib(sdf.obj) : warning LNK4099: PDB 'freetype.pdb' was not found with 'freetype.lib(sdf.obj)' or at 'C:\Users\ego\Desktop\uwuhook loader\uwuhook\build\Release\freetype.pdb'; linking object as if no debug info
+freetype.lib(svg.obj) : warning LNK4099: PDB 'freetype.pdb' was not found with 'freetype.lib(svg.obj)' or at 'C:\Users\ego\Desktop\uwuhook loader\uwuhook\build\Release\freetype.pdb'; linking object as if no debug info
+freetype.lib(ftbitmap.obj) : warning LNK4099: PDB 'freetype.pdb' was not found with 'freetype.lib(ftbitmap.obj)' or at 'C:\Users\ego\Desktop\uwuhook loader\uwuhook\build\Release\freetype.pdb'; linking object as if no debug info
+freetype.lib(ftmm.obj) : warning LNK4099: PDB 'freetype.pdb' was not found with 'freetype.lib(ftmm.obj)' or at 'C:\Users\ego\Desktop\uwuhook loader\uwuhook\build\Release\freetype.pdb'; linking object as if no debug info
+freetype.lib(ftgzip.obj) : warning LNK4099: PDB 'freetype.pdb' was not found with 'freetype.lib(ftgzip.obj)' or at 'C:\Users\ego\Desktop\uwuhook loader\uwuhook\build\Release\freetype.pdb'; linking object as if no debug info
+freetype.lib(ftlzw.obj) : warning LNK4099: PDB 'freetype.pdb' was not found with 'freetype.lib(ftlzw.obj)' or at 'C:\Users\ego\Desktop\uwuhook loader\uwuhook\build\Release\freetype.pdb'; linking object as if no debug info
+freetype.lib(ftdebug.obj) : warning LNK4099: PDB 'freetype.pdb' was not found with 'freetype.lib(ftdebug.obj)' or at 'C:\Users\ego\Desktop\uwuhook loader\uwuhook\build\Release\freetype.pdb'; linking object as if no debug info
+  catpaw client loader.vcxproj -> C:\Users\ego\Desktop\uwuhook loader\uwuhook\build\Release\msutil.exe

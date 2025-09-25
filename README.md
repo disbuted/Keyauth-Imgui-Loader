@@ -1,5 +1,9 @@
 # Keyauth-Imgui-Loader
 
+---
+
+I will NOT be giving any sort of support with this. If you do not know what to do, I suggest you go take some lessions. 
+
 **uwuhook** — a clean, ImGui-based loader with a Pandora-inspired look.  
 It’s simple, customizable, and made for developers who want a polished loader without building everything from scratch.
 
